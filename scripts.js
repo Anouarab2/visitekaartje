@@ -1,5 +1,5 @@
 function changeImage()
 {
     var img = document.getElementById('image');
-    img.src = 'mysterybox2.webp';
+    img.src = 'assets/mysterybox2.webp';
 }
