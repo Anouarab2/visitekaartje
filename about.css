@@ -1,0 +1,10 @@
+article{
+    background-color: lightgrey;
+    }
+    
+    article.oneven{
+        background-color: grey;
+    }
+button{
+ font-size: 2em;   
+}
